@@ -1,0 +1,189 @@
+
+<!-  
+ -  Resume_Rahul_Bhattacharya_20343521
+ -  Created by Rahul Bhattacharya
+ ->
+ 
+<html>
+<head>
+
+     <style type="text/css">
+
+	     h1.Main { font-size: 30px; text-align: center; margin-bottom:5pt ;  }
+	     h3.Headings {   margin-bottom:0.5em;  }
+        UL.info {   margin-top:0;}
+        div.info {   margin-left:1em; }
+        div.wrapper {text-align:left; width:840px ; margin:0px auto; padding-bottom:25px; padding-top:10px; font-family:"Times New Roman",Georgia,Serif; }
+        body { text-align:center; font-size:14px ; }
+        table.personaInfo{ border-bottom:1px solid black; width:840px;font-size:14px ;  }
+        td.left{text-align:left; width:33.33%}
+        td.center{text-align:center;width:33.33%}
+        td.right{text-align:right;width:33.33%}
+        p.coverLetter {  margin-top:1em; text-align:justify ; }
+        a { color: black; text-decoration: none; border-bottom:1px dotted;}
+
+	
+        
+	
+     </style>
+     
+</head>
+
+<body  >
+
+
+    <div class="wrapper">
+     <h1 class="Main" >Rahul Bhattacharya</h1>
+   
+     
+     <table class = "personaInfo">
+     <tr  class="Address" >
+         <td  class = "left">3A Software Engineering</td>
+         <td class = "center"><a HREF="mailto:r3bhatta@uwaterloo.ca">r3bhatta@uwaterloo.ca</a></td>
+         <td class = "right">Unit #7, 249 Cedarbrae Avenue</td>
+     </tr>
+     <tr  class="Address" >
+      <td  class = "left">20343521</td>
+      <td class = "center">(647) 861-5385</td>
+      <td class = "right">Waterloo,Ontario,N2L 4S8</td>
+     </tr>
+     <br>
+     </table>
+     
+
+    <h3 class = "Headings">Work Experience</h3>
+	
+	
+	
+	<!--Manulife Financial-->
+             <div class = "info"> <i>Programmer Analyst, Manulife Financial (29 Aug - Dec 23 2011 ) </i> </div>
+            <UL class = "info">  
+             <LI> Worked on a web application internal to Manulife Financial, Concur American Express - A web application used by Manulife Employees 
+             <LI> The application was a tool used by Manulife Employees to manage expenditures to the company while working with clients
+			 <LI> Extended functionality of the application that involved handling of expenditures with multiple companies supported by Manulife Financial
+			 <LI> Coded batch end support of the application, which ran audit checks on expenditures incurred to different companies everyday 
+			<LI>  Designed and developed Adobe Flash modules relating to the different work tools used at Manulife Financial 
+			<LI>  These modules were easy-to-learn tutorials for new Manulife Employees that would guide them while using Manulife Tools
+			<LI>  Learnt extensively about Action Script and developed a dynamic  <a target="_blank" HREF="https://github.com/r3bhatta/Manulife-3D-Cube">3-D Splash page</a> for the modules that was accepted by Sponsors 
+			<LI>  Tools/Frameworks used:  C#, VBScript, Action Script (2.0 and 3.0), JavaScript, Visual Source Safe, CSS, .NET
+	
+		
+
+       </UL>
+      
+       <br>
+	   
+          
+            <!--OCH-->
+             <div class = "info"> <i>Junior Information Systems Developer, University of Waterloo (Jan 3 - Apr 29 2011 ) </i> </div>
+            <UL class = "info">  
+             <LI> Worked on a web appplication,the <a target="_blank" HREF="http://www.och.uwaterloo.ca">Off Campus Housing Website  </a> - A means for students to search for off campus housing
+             <LI> Redesign of the existing project and additional features after interacting with clients and recognizing specifications
+              
+              <LI > Implementation of Model-View-Controller architecture, maximizing maintainability of code and testing prospects
+              <LI > Developed a rapid search engine that populates instant searches with JavaScript, dramatically increasing searching capabilities within the application
+               <LI > Added multiple features to the existing application like a "Add to Watch List" option to improve a users search experience
+               <LI > Incorporated higher security features for the application that gave separate privileges for the administrator and an average user
+              <LI > Test coverage of 100% on the section of code I was assigned to, using Nunit testing and the MOQ library
+              <LI > Agile Software Development methodologies such as Feature Driven Development implemented 
+              <LI>Tools/Frameworks used: C#, jQuery, HTML (and helpers), CSS, .NET
+                           
+                                                                                                               
+     
+       </Ul>
+      
+       <br>
+       
+            <!-- CIS-->                                 
+            <div class = "info"> <i>Junior Web Developer, University of Waterloo (May 3 - Aug 27 2010) </i> </div>
+               <Ul class = "info">
+             <LI>Worked on a web application, the Campus Incident System - A reporting service for University officials to report major campus incidents.
+             <LI>I was able to boost the performace of the application through major perfomance analysis of the application and improving areas that needed work
+             <LI> Test coverage of 100% on the section of code I was assigned to, using Nunit testing and the MOQ library
+             <LI>Worked with telerik tools and successfully added new features and components including an instant search dropdown that searched through a radtree view to display locations to a user with branching 
+               <LI>Created a data importer application that worked alongside the web application that would be run daily and refresh our databases, removing old data while adding new items as well. The application worked with mutiple hash maps and had numerous tables updated daily.
+              <LI>Tools/Frameworks used: C#, jQuery, ASP.NET, CSS, .NET
+             
+             </UL>       
+
+     <!--Computer Proficiency -->
+
+     <h3 class = "Headings">Computer Proficiency</h3>
+          <UL class = "info">
+               <LI>Programming Languages(HLL): C++ (2 years), Java (1 year), C# (1 year), C (4 months), SQL (4 months), ActionScript (4 months) , VBScript (4 months), Scheme (4 months), NQC (2 months) 
+               <LI>Assembly Language: MIPS and Coldfire 68k assembly (3 months)
+               <LI>Operating Systems: Linux,Macintosh, and Windows
+               <LI>Web Development: ASP.NET, JavaScript, CSS, HTML(and its associated helpers)
+               <LI>Database: MSSQL
+               <LI>Frameworks: .NET
+			   <LI>Source Control: Visual Source Safe, Team Foundation Server
+               <LI>IDEs: Visual Studio, Eclipse, Turbo C++
+               <LI>Application Software: Microsoft Word, Excel, PowerPoint,Visual Studio,SQL Server, and Autodesk Maya(Self Learning)
+               <LI>Graphics: GTK(Course work),Simple DirectMedia Layer(Self Learning)
+			   <LI>Mobile Development: Android (Self learning)
+
+          </UL>
+
+
+     <!-- Education -->
+
+     <h3 class = "Headings">Education</h3>
+      <div class = "info"><i> Candidate for Bachelor of Software Engineering </i> </div>
+          <UL class = "info">
+               <LI> Honours Software Engineering, University of Waterloo, Waterloo, ON, Sept. 2009 - present
+               <LI> Relevant Assignments
+               <UL>
+			   <LI>Currently developing "Mad Birds", a replica of the popular "Angry Birds" application using C++ with Xlib, User Interfaces
+			   <LI>Developed a game "Straights" using C++ with GTK,using an MVC architecture for the Observer Pattern,Object-Oriented Software Development
+               <LI>Wrote a compiler for a subset of C to MIPS in Java ,Foundations of Sequential Programs
+               <LI>Created a calculator in Coldfire 68k assembly,Digital Computers
+               <LI>Designed and wrote a circuit that simulated a door security system in VHDL ,Digital Circuits and Systems
+               </UL>
+          </UL>
+
+
+        <!-- Awards and Achievements -->
+
+     <h3 class = "Headings">Awards and Achievements </h3>
+          <UL class = "info">
+			   <LI> Completed the Advanced Track of Introduction to Artificial Intelligence(Online) from Stanford University, 2012
+			    <UL class = "info">
+                  <LI>Finished with a final grade of 85%
+                  </UL>
+               <LI> Facebook Hacker Cup Online Round 2 Qualifier, 2011
+               <LI>Certified Black Belt (1st Dan) in Karate (Shotokan) from the Japan Karate Association,2009
+               <LI>Software Engineering Entrance Scholarship, University of Waterloo,  2009
+                  <UL class = "info">
+                  <LI>Awarded to students of academic excellence entering the Software Engineering program 
+                  </UL>
+               <LI>Completed a course of "Programming in Core JAVA" from Softools Computers, India, 2009
+                  <UL class = "info">
+                  <LI>Course included major concepts of JAVA like OOP,File Handling, Error Catching and Multithreading
+                  </UL>
+               <LI>Jain Interational Residential School Prefect , 2008
+               <LI>Silver Medal in the International India-South Africa Karate Championship Individual Kumite, 2007
+                  
+                  
+               </UL>
+               
+               
+               
+                  <!-- Activites and Interests -->
+
+     <h3 class = "Headings">Activities and Interests </h3>
+          <UL class = "info">
+               <LI> I love teaching concepts to earnest individuals as I love interacting with people and seeing different views of a situation and solving problems.
+            <LI> I enjoy playing the accoustic and electric guitar and have self trained myself from a young age.
+            <LI> I play most sports and love outdoor activities in general, some of them being swimming,cricket, badminton,cycling,scuba diving and hiking.          
+             
+               
+          </UL>
+
+            
+
+
+
+</div>
+</body>
+
+</html>
